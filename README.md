@@ -1,5 +1,5 @@
 # Vue Mastery
-### This contains files that related to learning VUE JS. 
+### All files are related to learning VUE JS.
 ---
 Helpful Links in learning Vue JS
 * [VueJS](https://vuejs.org/)
